@@ -1,0 +1,124 @@
+.header {
+  background-color: #4bfbba;
+}
+.photo {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: cover;
+  margin: 0;
+}
+
+.data {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.name {
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.name span{
+  font-family: Impact, Charcoal, sans-serif;
+  color: #0f141f;
+  font-size: 1.7em;
+  font-weight: bolder;
+}
+
+.profession {
+  margin-left: 80px;
+  margin-top: 7px;
+}
+
+.profession span {
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #0f141f;
+  font-size: 1.1em;
+  font-weight: lighter;
+}
+
+.contact-data {
+  margin-left: 80px;
+  margin-top: 45px;
+}
+
+.contact-data span{
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 14px;
+  margin-right: 25px;
+}
+
+.zone { 
+  display: inline-block;
+  vertical-align: top;
+}
+
+.left-content {
+  width: 150px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+a {
+  color:#0e1942;
+  font-size: 14px;
+}
+
+.github {
+  padding-top: 25px;
+}
+
+.title {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.left-content .title {
+  font-size: 17px;
+}
+
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+p {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 14px;
+  text-align: justify;
+  line-height: 1.3;
+}
+
+.section {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.right-content {
+  padding-left: 50px;
+  padding-top: 30px;
+  width: 495px;
+  font-family: "Arial Black", Gadget, sans-serif;;
+}
+
+.right-content .title {
+  font-size: 22px;
+}
+
+.sub-title{
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 15px;
+}
