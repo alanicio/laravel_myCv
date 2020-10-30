@@ -1,5 +1,6 @@
 .header {
-  background-color: #4bfbba;
+  background-color:  #437ac1;
+  color: white;
 }
 .photo {
   width: 150px;
@@ -25,7 +26,6 @@
 
 .name span{
   font-family: Impact, Charcoal, sans-serif;
-  color: #0f141f;
   font-size: 1.7em;
   font-weight: bolder;
 }
@@ -37,7 +37,6 @@
 
 .profession span {
   font-family: "Arial Black", Gadget, sans-serif;
-  color: #0f141f;
   font-size: 1.1em;
   font-weight: lighter;
 }
@@ -72,6 +71,11 @@ a {
   padding-top: 25px;
 }
 
+img {
+  width: 35px;
+  margin-top: 10px;
+}
+
 .title {
   font-weight: bold;
   margin-top: 20px;
@@ -88,6 +92,10 @@ ul {
   padding: 0;
   padding-left: 10px;
   margin-bottom: 15px;
+}
+
+.technologies li {
+  font-size: 10px;
 }
 
 li {

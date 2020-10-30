@@ -35,23 +35,23 @@
   <div class="zone left-content">
     <div class="links">
       <div class="github">
-        <a href="https://github.com/alanicio">Mi github</a>
+        <a href="https://github.com/alanicio"><img src="{{ public_path('assets/images/githubLogo.png') }}"/>Mi Github</a>
       </div>
       <div class="briefcase">
-        <div class="title">Mi portafolio:</div>
+        <div class="title">Algunos de mis proyectos:</div>
         <ul class="techonolgies">
+          
+          <li><span class="section">React</span></li>
+          <ul class="react">
+            <li><a href="https://peaceful-goldwasser-4de5b8.netlify.app/">Administrador de usuarios</a></li>
+            <li><a href="https://cranky-villani-834ed2.netlify.app/">Recetas para bebidas</a></li>
+            <li><a href="https://elastic-jang-140f4e.netlify.app/">Citas de veterinario</a></li>
+          </ul>
 
           <li><span class="section">Angular</span></li>
           <ul class="angular">
             <li><a href="https://quizzical-euler-494918.netlify.app/">Piedra papel o tijera</a></li>
             <li><a href="https://determined-murdock-75b527.netlify.app/">Lista de empleos</a></li>
-            <li><a href="https://kind-montalcini-40e1e7.netlify.app/">Administrador de usuarios</a></li>
-          </ul>
-
-          <li><span class="section">React</span></li>
-          <ul class="react">
-            <li><a href="https://elastic-jang-140f4e.netlify.app/">Citas de veterinario</a></li>
-            <li><a href="https://boring-noether-620c45.netlify.app/">Acortador de urls</a></li>
           </ul>
 
         </ul>
@@ -61,9 +61,22 @@
     <div class="skills">
       <div class="title">Habilidades</div>
       <ul class="skills-list">
-        <li class="skill">Laravel</li>
         <li class="skill">React</li>
-        <li class="skill">Angular</li>
+        <ul class="technologies">
+          <li>Hooks</li>
+          <li>Consumo de APIs</li>
+          <li>Styled compontents</li>
+          <li>React Router</li>
+          <li>React Context</li>
+        </ul>
+        <li class="skill">Laravel</li>
+        <ul class="technologies">
+          <li>MVC</li>
+          <li>Migrations</li>
+          <li>Laravel Passport</li>
+          <li>Task Scheduling</li>
+          <li>Dompdf</li>
+        </ul>
         <li class="skill">Git</li>
         <li class="skill">HTML</li>
         <li class="skill">CSS</li>
