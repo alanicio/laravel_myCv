@@ -15,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
   $pdf = PDF::loadView('pdf', []);
-  return $pdf->stream();
-  /* return $pdf->download('Alan Ramírez.pdf'); */
+  /* return $pdf->stream(); */
+  return $pdf->download('Alan Ramírez.pdf');
 });

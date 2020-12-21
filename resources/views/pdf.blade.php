@@ -37,6 +37,11 @@
       <div class="github">
         <a href="https://github.com/alanicio"><img src="{{ public_path('assets/images/githubLogo.png') }}"/>Mi Github</a>
       </div>
+
+      <div>
+        <a href="https://www.linkedin.com/in/alan-ramírez-577b34176"><img src="{{ public_path('assets/images/linkedinLogo.png') }}"/>Mi Linkedin</a>
+      </div>
+
       <div class="briefcase">
         <div class="title">Algunos de mis proyectos:</div>
         <ul class="techonolgies">
@@ -44,8 +49,8 @@
           <li><span class="section">React</span></li>
           <ul class="react">
             <li><a href="https://peaceful-goldwasser-4de5b8.netlify.app/">Administrador de usuarios</a></li>
-            <li><a href="https://cranky-villani-834ed2.netlify.app/">Recetas para bebidas</a></li>
-            <li><a href="https://elastic-jang-140f4e.netlify.app/">Citas de veterinario</a></li>
+            <li><a href="https://cranky-villani-834ed2.netlify.app/">Recetas de bebidas</a></li>
+            <li><a href="https://hardcore-allen-beb7b7.netlify.app/">Países</a></li>
           </ul>
 
           <li><span class="section">Angular</span></li>
@@ -68,6 +73,8 @@
           <li>Styled compontents</li>
           <li>React Router</li>
           <li>React Context</li>
+          <li>Pruebas unitarias y de integración</li>
+          <li>Redux</li>
         </ul>
         <li class="skill">Laravel</li>
         <ul class="technologies">
@@ -75,7 +82,8 @@
           <li>Migrations</li>
           <li>Laravel Passport</li>
           <li>Task Scheduling</li>
-          <li>Dompdf</li>
+          <li>Eloquent y QueryBuilder</li>
+          <li>Blade Template</li>
         </ul>
         <li class="skill">Git</li>
         <li class="skill">HTML</li>
