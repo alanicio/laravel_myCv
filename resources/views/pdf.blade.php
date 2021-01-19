@@ -82,7 +82,7 @@
           <li>Migrations</li>
           <li>Laravel Passport</li>
           <li>Task Scheduling</li>
-          <li>Eloquent y QueryBuilder</li>
+          <li>Eloquent and QueryBuilder</li>
           <li>Blade Template</li>
         </ul>
         <li class="skill">Git</li>
@@ -104,7 +104,7 @@
         Hello, I'm a developer with almost 2 years of experience working in companies, but with more than 
         five years coding. I am capable both in front end and back end, can do monolithic applications or
         program an API and consume it in front end. I have developed multiple types of systems, like e-commerce
-        , ERP, CRM and dashboards. I invite you to give it a look to my github, where you can see some of my code.
+        , ERP, CRM and dashboards. I invite you to take a look to my github, where you can see some of my code.
       </p>
     </div>
 
