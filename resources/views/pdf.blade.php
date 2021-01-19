@@ -15,7 +15,7 @@
         <span>Alan Mauricio Ramírez Narváez</span>
       </div>
       <div class="profession">
-        <span>Desarrollador Web</span>
+        <span>Web Developer</span>
       </div>
       <div class="contact-data">
         <span class="phone">
@@ -35,28 +35,28 @@
   <div class="zone left-content">
     <div class="links">
       <div class="github">
-        <a href="https://github.com/alanicio"><img src="{{ public_path('assets/images/githubLogo.png') }}"/>Mi Github</a>
+        <a href="https://github.com/alanicio"><img src="{{ public_path('assets/images/githubLogo.png') }}"/>My Github</a>
       </div>
 
       <div>
-        <a href="https://www.linkedin.com/in/alan-ramírez-577b34176"><img src="{{ public_path('assets/images/linkedinLogo.png') }}"/>Mi Linkedin</a>
+        <a href="https://www.linkedin.com/in/alan-ramírez-577b34176"><img src="{{ public_path('assets/images/linkedinLogo.png') }}"/>My Linkedin</a>
       </div>
 
       <div class="briefcase">
-        <div class="title">Algunos de mis proyectos:</div>
+        <div class="title">Some of my projects:</div>
         <ul class="techonolgies">
           
           <li><span class="section">React</span></li>
           <ul class="react">
-            <li><a href="https://peaceful-goldwasser-4de5b8.netlify.app/">Administrador de usuarios</a></li>
-            <li><a href="https://cranky-villani-834ed2.netlify.app/">Recetas de bebidas</a></li>
-            <li><a href="https://hardcore-allen-beb7b7.netlify.app/">Países</a></li>
+            <li><a href="https://peaceful-goldwasser-4de5b8.netlify.app/">Users Manager</a></li>
+            <li><a href="https://cranky-villani-834ed2.netlify.app/">Drink Recipes</a></li>
+            <li><a href="https://hardcore-allen-beb7b7.netlify.app/">Countries</a></li>
           </ul>
 
           <li><span class="section">Angular</span></li>
           <ul class="angular">
-            <li><a href="https://quizzical-euler-494918.netlify.app/">Piedra papel o tijera</a></li>
-            <li><a href="https://determined-murdock-75b527.netlify.app/">Lista de empleos</a></li>
+            <li><a href="https://quizzical-euler-494918.netlify.app/">Rock Paper Scisors</a></li>
+            <li><a href="https://determined-murdock-75b527.netlify.app/">Job List</a></li>
           </ul>
 
         </ul>
@@ -64,16 +64,16 @@
     </div>
 
     <div class="skills">
-      <div class="title">Habilidades</div>
+      <div class="title">Skills</div>
       <ul class="skills-list">
         <li class="skill">React</li>
         <ul class="technologies">
           <li>Hooks</li>
-          <li>Consumo de APIs</li>
+          <li>consumption of APIs</li>
           <li>Styled compontents</li>
           <li>React Router</li>
           <li>React Context</li>
-          <li>Pruebas unitarias y de integración</li>
+          <li>Unit Testing</li>
           <li>Redux</li>
         </ul>
         <li class="skill">Laravel</li>
@@ -98,57 +98,54 @@
   <div class="zone right-content">
     <div class="profile">
       <div class="title">
-        Perfil
+        Profile
       </div>
       <p>
-        Hola, soy un desarrollador con casi 2 años de experiencia en el campo laboral con más de 5 años
-        de experiencia codificando. Soy muy capaz tanto en el front end como en el back end, puedo hacer
-        sistemas monoliticos o programar los microservicios y  consumirlos en el front end. He desarrollado
-        de todo un poco, desde e-commerce, pasando por ERP y CRM, hasta dashboards. Te invito a conocer algunos
-        de mis proyectos personales, los puedes ver en mi github.
+        Hello, I'm a developer with almost 2 years of experience working in companies, but with more than 
+        five years coding. I am capable both in front end and back end, can do monolithic applications or
+        program an API and consume it in front end. I have developed multiple types of systems, like e-commerce
+        , ERP, CRM and dashboards. I invite you to give it a look to my github, where you can see some of my code.
       </p>
     </div>
 
     <div class="laboral-experience">
       <div class="title">
-        Experiencia laboral
+        Work experience
       </div>
 
       <div class="sub-title">
-        Desarrollador Web, BID Group, Ciudad de México
+        Web Developer, BID Group, Ciudad de México
       </div>
-      <p>Marzo 2020 — Septiembre 2020</p>
+      <p>March 2020 — September 2020</p>
       <p>
-        La empresa ofrece un servicio de inteligencia financiera y comercial, el cual incluia dashboards,
-        análisis de mercados, de ventas, etc. Yo me encargaba de desarrollar la aplicación web que ofrecen
-        a los clientes.
+        The company offers a bussines intelligence, that includes a dashboard with data about markets,
+        sales, etc. I developed de web app that they offer to the clients.  
       </p>
 
       <div class="sub-title">
-        Mesa de soporte nivel 2, PRAXIS Desarrollo de software y consultoria TI, Ciudad de México
+        Level 2 IT support, PRAXIS Desarrollo de software y consultoria TI, Ciudad de México
       </div>
-      <p>Noviembre 2019 — Marzo 2020</p>
+      <p>November 2019 — March 2020</p>
       <p>
-        Me encontraba en el area de sistemas bancarios, identificando los posibles bugs, o solucionando los
-        problemas que la mesa de soporte 1 no fuera capaz de resolver.
+        I was in banking systems area, finding bugs, and fixing the problems that Level 1 IT support were 
+        not able to solve.  
       </p>
 
       <div class="sub-title">
-        Desarrollador Web, Sistemas Nonex, Ciudad de México
+        Web Developer, Sistemas Nonex, Ciudad de México
       </div>
-      <p>Junio 2019 — Septiembre 2020</p>
+      <p>June 2019 — September 2020</p>
       <p>
-        La empresa suministra e instala equipo eléctricos. Yo me encargaba de desarrollar las aplicaciones web
-        tanto para los procesos internos de la empresa, así como la e-commerce para la empresa.
+        The company provides and install electric equipment. I developed the web apps for internal 
+        processes and the e-commerce too.
       </p>
 
       <div class="sub-title">
-        Desarrollador Web, B&W soluciones integrales, Ciudad de México
+        Web Developer, B&W soluciones integrales, Ciudad de México
       </div>
       <p>Marzo 2019 — Junio 2019</p>
       <p>
-        La empresa ofrece consultoria de software a la medida. Por lo que me encontraba desarrollando aplicaciones
-        web, cada una con una lógica de negocio diferente.
+        The company offers custom software consulting. I was one of their developers.        
       </p>
 
     </div>
